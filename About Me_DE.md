@@ -23,7 +23,6 @@ Nach einigen freiberuflichen Tätigkeiten, sowie Praktika und Wettbewerben in Ar
 - seismische Analyse
 - und 3D-Druck (Modelle und Prototypen).
 <br/>
-<br/>
 
 ### [`MSC Arbeit`]
 <p></p>
@@ -55,7 +54,6 @@ und Wave-Frames Decke und Twisted-Base Skyscraper und Butterfy Terminal),
 * <a href="https://vimeo.com/manage/videos/319545166">Koncept/ Skizzieren/ Sub-D Modelierung und Tragstrukturoptimierung</a> (Force Based Furniture),
 * <a href="https://timsdesigns.wixsite.com/cdconsulting/allprojects">Reverse Engineering/ Modellierung</a> (Maciachini-Modell),
 * <a href="">Design Optionen/ Beratung und 3D-Visualisierung/ virtuelle Begehung</a> (Apartment Milano).
-<br/>
 <br/>
 
 ### [`IASS Konferenz und Assasin Bug`]
