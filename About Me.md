@@ -23,7 +23,6 @@ After some freelance work and internships and competitions in architecture, work
 - seismic analysis
 - and 3D printing (scale models & prototypes).
 <br/>
-<br/>
 
 ### [`MSC work`]
 <p></p>
@@ -52,7 +51,6 @@ After my studies I founded <a href="https://www.comdecon.com">ComDeCon</a> (Comp
 * <a href="https://vimeo.com/manage/videos/319545166">Concept/ sketching/ sub-d modeling and structural optimization</a> (Force Based Furniture,  triply gemoetric landscape),  
 * <a href="https://timsdesigns.wixsite.com/cdconsulting/allprojects">Reverse engineering/ modeling</a> (Maciachini Model),  
 * <a href="">Design options/ consultation and 3d visualization/ virtual walkthrough</a> (Apartment Milano).
-<br/>
 <br/>
 
 ### [`IASS Conference and Assasin Bug`]
