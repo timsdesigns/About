@@ -80,11 +80,13 @@ Im Rahmen dieser Arbeit und des wachsenden Interesses an der Entwicklung von Arc
 Dann folgten einige Online-Kurse und Bücher zum Thema
 
 - <a href="https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020">Datentypen und Datenstrukturen</a>,
-- Algorithmen,
+- [Algorithmen](https://www.youtube.com/watch?v=fykrlqbV9wM&list=PL5UjM1xA8Bj8AjiTw2Aeb9yinE4-3j0PT&index=4),
 - <a href="https://www.youtube.com/watch?v=ub3P8c87cwk">Unit Tests (C#)</a>,
+- [Asynchronious Programming & Multithreading](https://www.youtube.com/watch?v=2moh18sh5p4&t=943s),
 - <a href="https://www.w3schools.com/html/default.asp">HTML</a> und <a href="https://www.w3schools.com/css/default.asp">CSS</a> (in Bearbeitung),
-- aktuell hole ich <a href="https://www.geeksforgeeks.org/computer-network-tutorials/?ref=lbp">Netzwerk-Wissen</a> nach
-- und plane <a href="">Javascript</a> in Angriff zu nehmen, um auch die Webentwicklung abzudecken. 
+- aktuell hole ich <a href="https://www.geeksforgeeks.org/computer-network-tutorials/?ref=lbp">Netzwerk-Wissen</a>
+- sowie Einarbeitung in [ASP.NET Core](https://www.tutorialsteacher.com/core/first-aspnet-core-application) und [AZURE](https://www.youtube.com/watch?v=zIfxkub7CLY) nach
+- und plane <a href="https://www.tutorialsteacher.com/javascript">Javascript</a> in Angriff zu nehmen, um auch die Webentwicklung und Cloud abzudecken. 
 <br/>
 
 ### [`Architecture & Computational Design`]
