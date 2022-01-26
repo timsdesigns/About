@@ -89,5 +89,6 @@ Dann folgten einige Online-Kurse und Bücher zum Thema
 
 ### [`Architecture & Computational Design`]
 <p></p>
-Ich bin weiterhin dabei die Tiefen von <a href="https://developer.rhino3d.com/guides/rhinocommon/what-is-rhinocommon/">RhinoCommon</a> und dem <a href="https://developer.rhino3d.com/api/grasshopper/html/723c01da-9986-4db2-8f53-6f3a7494df75.htm">Grasshopper SDK</a> zu erforschen.   
-Weiter ich entwickle einige kleine Plugins, während ich einige frühere, <a href="https://www.comdecon.com/expo-2020">konzeptionelle Arbeiten</a> fertigstelle, um sie in meinem Portfolio/auf meiner Website in Form von Renderings via Twinmotion zu präsentieren.
+Ich bin weiterhin dabei die Tiefen von <a href="https://developer.rhino3d.com/guides/rhinocommon/what-is-rhinocommon/">RhinoCommon</a> und dem <a href="https://developer.rhino3d.com/api/grasshopper/html/723c01da-9986-4db2-8f53-6f3a7494df75.htm">Grasshopper SDK</a> zu erforschen.  
+
+Außerdem entwickle ich kleinere Plugins, während ich einige frühere, <a href="https://www.comdecon.com/expo-2020">konzeptionelle Arbeiten</a> fertigstelle, um sie in meinem Portfolio/auf meiner Website in Form von Renderings via Twinmotion zu präsentieren.
