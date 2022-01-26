@@ -13,7 +13,7 @@ In meinem  <a href="https://issuu.com/home/published/portfolio_tim_fischer__en_"
 Nach einigen freiberuflichen Tätigkeiten, sowie Praktika und Wettbewerben in Architektur, Workshops und weiteren Arbeiten im Bereich <a href="https://vimeo.com/manage/videos/153258593">3D-Druck</a> und Visualisierung konzentrierte ich mich in meinem Master auf <a href="https://issuu.com/timfischer45/docs/grasshopper_polimi_p1-17_01">Forschung in verschiedenen Bereichen</a> unter Verwendung und Entdeckung dieser Werkzeuge, wie u.a.
 
 - Materialforschung,
-- <a href="https://vimeo.com/219884392">Angewandte Mathematik</a>,
+- <a href="https://vimeo.com/219884392">angewandte Mathematik</a>,
 - <a href="https://issuu.com/timfischer45/docs/extreme_living_-_functional_unit_-_">biegeaktive Systeme</a>,
 - <a href="https://vimeo.com/226139359">Physiksimulation</a>,
 - <a href="https://vimeo.com/247093054">agentenbasierte Simulation</a>, 
