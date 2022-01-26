@@ -26,11 +26,11 @@ Nach einigen freiberuflichen Tätigkeiten, sowie Praktika und Wettbewerben in Ar
 
 ### [`MSC Arbeit`]
 <p></p>
-Gleichzeitig war es mir wichtig, <a href="https://vimeo.com/236308356"><b>einige dieser Techniken im Feld zu testen</b></a>, was durch ein Praktikum und später eine Stelle als <a href="http://www.textilearchitecture.polimi.it/#research">wissenschaftlicher Mitarbeiter im Labor</a> ermöglicht wurde.
+Gleichzeitig war es mir wichtig, <a href="https://vimeo.com/236308356"><b>einige dieser Techniken im Feld zu testen</b></a>, was durch eine Werkstudententätigkeit und später eine Stelle als <a href="http://www.textilearchitecture.polimi.it/#research">Anwendungsentwickler für Patentarbeit - Militäranwendungen/ Produktdesign/ Physiksimulation</a> ermöglicht wurde.  
 
 Die Arbeit ermöglichte neben der <b>Entwicklung robuster Workflows und</b> schließlich <b>definierter Werkzeuge für Wiederverwendbarkeit und Interoperabilität</b> <b>den Fokus auf Präsentation und Kommunikation</b> mit/mit Kollegen, Büroleitern, produzierenden Unternehmen im Ausland, mit Investoren und in der Patentforschung/-arbeit. 
 
-Außerdem konnte ich meine Fähigkeiten im Rahmen einer <b>unabhängigen internationalen Zusammenarbeit</b> an unserem Beitrag zum <a href="https://timsdesigns.wixsite.com/cdconsulting/world-writing-museum"><b>World Writing Museum Competition</b></a> (<b>GSM-Import, SubD, Custom Tool Dev, Vray</b>) und am <b>EVOLO Skyscraper Competition</b> (<b>Generative Design, Physics Simulation, Smart Slabs</b> ).
+Außerdem konnte ich meine Fähigkeiten im Rahmen einer <b>unabhängigen internationalen Zusammenarbeit</b> an unserem Beitrag zum <a href="https://timsdesigns.wixsite.com/cdconsulting/world-writing-museum"><b>World Writing Museum Competition</b></a> (<b>GSM-Import, SubD, Custom Tool Dev, Vray</b>) und am <a href="https://www.evolo.us/category/competition/"><b>EVOLO Skyscraper Competition</b></a> (<b>Generative Design, Physics Simulation, Smart Slabs</b>) zur Anwendung bringen.
 <br/>
 <br/>
 
@@ -51,7 +51,7 @@ Nach meinem Studium habe ich <a href="https://www.comdecon.com">ComDeCon</a> (Co
 * <a href="https://timsdesigns.wixsite.com/cdconsulting/urbandesign">Grasshopper-Lösungen</a> (Stadtteil Schatten Generation und Bienenwaben Geometrie.)
 und Wave-Frames Decke und Twisted-Base Skyscraper und Butterfy Terminal),
 * <a href="https://timsdesigns.wixsite.com/cdconsulting/infrastructuredesign">Entwicklung von Bauingenieurwesen Tools</a> (RFI-GIS- Import und RFI-CAD Workflow-Automatisierung),
-* <a href="https://vimeo.com/manage/videos/319545166">Koncept/ Skizzieren/ Sub-D Modelierung und Tragstrukturoptimierung</a> (Force Based Furniture),
+* <a href="https://vimeo.com/manage/videos/319545166">Konzept/ Skizzieren/ Sub-D Modelierung und Tragstrukturoptimierung</a> (Force Based Furniture),
 * <a href="https://timsdesigns.wixsite.com/cdconsulting/allprojects">Reverse Engineering/ Modellierung</a> (Maciachini-Modell),
 * <a href="">Design Optionen/ Beratung und 3D-Visualisierung/ virtuelle Begehung</a> (Apartment Milano).
 <br/>
