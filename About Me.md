@@ -28,7 +28,7 @@ After some freelance work and internships and competitions in architecture, work
 <p></p>
 Simultaneously it was important to me to <a href="https://vimeo.com/236308356"><b>fieldtest some of these techniques</b></a>, which was enabled through an internship and later a <a href="http://www.textilearchitecture.polimi.it/#research">software developer/ computational designer</a> associate position.
 The work, besides allowing to <b>develop robust workflows and</b> eventually <b>defined tools for reusability and interoperability</b> <b>focused</b> besides development <b>on presentation and communication</b> to/with collegues, office leaders, manufactoring companies abroad, investors and patent reseearch/work.  
-I was also able to further develop my skills whithin an <b>independent international collaboration</b> on our contribution to the <a href="https://timsdesigns.wixsite.com/cdconsulting/world-writing-museum"><b>World Writing Museum Competition</b></a> <b>GSM import, SubD, custom tool dev, Vray</b>) and on the <b>EVOLO Skyscraper Competition</b> (<b>generative design, physics simulation, smart slabs</b>).
+I was also able to further develop my skills whithin an <b>independent international collaboration</b> on our contribution to the <a href="https://timsdesigns.wixsite.com/cdconsulting/world-writing-museum"><b>World Writing Museum Competition</b></a> <b>GSM import, SubD, custom tool dev, Vray</b>) and on the <a href="https://www.evolo.us/category/competition/"><b>EVOLO Skyscraper Competition</b></a> (<b>generative design, physics simulation, smart slabs</b>).
 <br/>
 <br/>
 
@@ -55,7 +55,7 @@ After my studies I founded <a href="https://www.comdecon.com">ComDeCon</a> (Comp
 
 ### [`IASS Conference and Assasin Bug`]
 <p></p>
-Initially for the graduation project I was researching <a href="https://www.livestreamevent.uk/iass2021/wp-content/uploads/sites/25/2021/08/975.pdf">Resposive Systems in Seismic Computational Design</a>, which was selected and proudly made it into the international Conference on Spatial Structures IASS in Surrey this year.  
+Initially for the graduation project I was researching <a href="https://www.livestreamevent.uk/iass2021/wp-content/uploads/sites/25/2021/08/975.pdf">Resposive Systems in Seismic Computational Design</a>, which was selected and proudly made it into the <a href="https://iass-structures.org/">International Conference on Spatial Structures IASS in Surrey</a> this year.  
 As a main outcome besides the workflow stands now the parametric component, that produces the <a href="https://www.youtube.com/watch?v=Zp45P_SOf4U">performing structure for testing</a> and is now under development to be published on <a href="https://www.food4rhino.com">Food4Rhino</a> and to be made an open source GitHub repository.
 <br/>
 <br/>
@@ -76,11 +76,13 @@ and have used the final projects to practice agile methods using
 Then followed some online classes and books on
 
 - <a href="https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020">Datatypes and Datastructures</a>,
-- Algorithms,
+- [Algorithms](https://www.youtube.com/watch?v=fykrlqbV9wM&list=PL5UjM1xA8Bj8AjiTw2Aeb9yinE4-3j0PT&index=4),
 - <a href="https://www.youtube.com/watch?v=ub3P8c87cwk">Unit Tests (C#)</a>,
+- [Asynchronious Programming & Multithreading](https://www.youtube.com/watch?v=2moh18sh5p4&t=943s),
 - <a href="https://www.w3schools.com/html/default.asp">HTML</a> and <a href="https://www.w3schools.com/css/default.asp">CSS (in Progress)</a>,
 - currently I am catching up on <a href="https://www.geeksforgeeks.org/computer-network-tutorials/?ref=lbp">Networks</a>
-- and Plan to tackle <a href="">Javascript</a> to cover web development as well.  
+- as well as training in [ASP.NET Core](https://www.tutorialsteacher.com/core/first-aspnet-core-application) und [AZURE](https://www.youtube.com/watch?v=zIfxkub7CLY),
+- and Plan to tackle <a href="https://www.tutorialsteacher.com/javascript">Javascript</a> to cover web development as well.  
 <br/>
 
 ### [`Architecture & Computational Design`]
