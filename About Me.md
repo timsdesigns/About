@@ -26,7 +26,7 @@ After some freelance work and internships and competitions in architecture, work
 
 ### [`MSC work`]
 <p></p>
-Simultaneously it was important to me to <a href="https://vimeo.com/236308356"><b>fieldtest some of these techniques</b></a>, which was enabled through an internship and later a <a href="http://www.textilearchitecture.polimi.it/#research">lab research</a> associate position.
+Simultaneously it was important to me to <a href="https://vimeo.com/236308356"><b>fieldtest some of these techniques</b></a>, which was enabled through an internship and later a <a href="http://www.textilearchitecture.polimi.it/#research">software developer/ computational designer</a> associate position.
 The work, besides allowing to <b>develop robust workflows and</b> eventually <b>defined tools for reusability and interoperability</b> <b>focused</b> besides development <b>on presentation and communication</b> to/with collegues, office leaders, manufactoring companies abroad, investors and patent reseearch/work.  
 I was also able to further develop my skills whithin an <b>independent international collaboration</b> on our contribution to the <a href="https://timsdesigns.wixsite.com/cdconsulting/world-writing-museum"><b>World Writing Museum Competition</b></a> <b>GSM import, SubD, custom tool dev, Vray</b>) and on the <b>EVOLO Skyscraper Competition</b> (<b>generative design, physics simulation, smart slabs</b>).
 <br/>
