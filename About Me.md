@@ -1,6 +1,18 @@
 ## About Me
 <br>
 
+## [English version](https://timsdesigns.github.io/)  
+### [Prelude](#prelude-1)
+### [MSC studies](#msc-studies-1)
+### [MSC work](#msc-work-1)
+### [Coding](#coding-1)
+### [ComDeCom](#comdecom-1)
+### [IASS Conference and Assasin Bug](#iass-conference-and-assasin-bug-1)
+### [Software Development](#software-development-1)
+### [Architecture & Computational Design](#architecture--computational-design-1)  
+<br/>
+<br/>
+
 ### [`Prelude`]
 <p></p>
 While executing designs a carpenter I developed the urge to improve the buildings I was involved with.  
