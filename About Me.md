@@ -28,7 +28,7 @@ After some freelance work and internships and competitions in architecture, work
 <p></p>
 Simultaneously it was important to me to <a href="https://vimeo.com/236308356"><b>fieldtest some of these techniques</b></a>, which was enabled through an internship and later a <a href="http://www.textilearchitecture.polimi.it/#research">software developer/ computational designer</a> associate position.
 The work, besides allowing to <b>develop robust workflows and</b> eventually <b>defined tools for reusability and interoperability</b> <b>focused</b> besides development <b>on presentation and communication</b> to/with collegues, office leaders, manufactoring companies abroad, investors and patent reseearch/work.  
-I was also able to further develop my skills whithin an <b>independent international collaboration</b> on our contribution to the <a href="https://timsdesigns.wixsite.com/cdconsulting/world-writing-museum"><b>World Writing Museum Competition</b></a> <b>GSM import, SubD, custom tool dev, Vray</b>) and on the <a href="https://www.evolo.us/category/competition/"><b>EVOLO Skyscraper Competition</b></a> (<b>generative design, physics simulation, smart slabs</b>).
+I was also able to further develop my skills whithin an <b>independent international collaboration</b> on our contribution to the <a href="https://www.comdecon.com/world-writing-museum"><b>World Writing Museum Competition</b></a> <b>GSM import, SubD, custom tool dev, Vray</b>) and on the <a href="https://www.evolo.us/category/competition/"><b>EVOLO Skyscraper Competition</b></a> (<b>generative design, physics simulation, smart slabs</b>).
 <br/>
 <br/>
 
@@ -43,13 +43,13 @@ This was followed by a deeper dive into the <a href="https://www.oreilly.com/lea
 <p></p>
 After my studies I founded <a href="https://www.comdecon.com">ComDeCon</a> (Computational Design Consulting) offering several differently scoped services around digital transformation. So far I've been involved with a <a href="https://timsdesigns.wixsite.com/cdconsulting/allprojects">row of projects</a> covering:
 
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/productdesign">3D Printing</a> (Grip Handle, 3d printing on fabric, Maciachini Model and Furniture Models),  
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/furniture">Structural Optimization</a> (Forced Based Furniture),  
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/graphicdesign">Vizualisation</a> (Ophthalmology Research, Street Renveal),  
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/urbandesign">Grasshopper Solutions</a> (Urban Shadow Generation, Honeycomb Geometry, Wave Frames Ceiling, Twisted Base Skyscraper, Butterfly Terminal),  
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/infrastructuredesign">Civil Enineering Tool development</a> (RFI- GIS- Import and RFI- CAD workflow automation),  
+* <a href="https://www.comdecon.com/productdesign">3D Printing</a> (Grip Handle, 3d printing on fabric, Maciachini Model and Furniture Models),  
+* <a href="https://www.comdecon.com/furniture">Structural Optimization</a> (Forced Based Furniture),  
+* <a href="https://www.comdecon.com/graphicdesign">Vizualisation</a> (Ophthalmology Research, Street Renveal),  
+* <a href="https://www.comdecon.com/urbandesign">Grasshopper Solutions</a> (Urban Shadow Generation, Honeycomb Geometry, Wave Frames Ceiling, Twisted Base Skyscraper, Butterfly Terminal),  
+* <a href="https://www.comdecon.com/infrastructuredesign">Civil Enineering Tool development</a> (RFI- GIS- Import and RFI- CAD workflow automation),  
 * <a href="https://vimeo.com/manage/videos/319545166">Concept/ sketching/ sub-d modeling and structural optimization</a> (Force Based Furniture,  triply gemoetric landscape),  
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/allprojects">Reverse engineering/ modeling</a> (Maciachini Model),  
+* <a href="https://www.comdecon.com/allprojects">Reverse engineering/ modeling</a> (Maciachini Model),  
 * <a href="">Design options/ consultation and 3d visualization/ virtual walkthrough</a> (Apartment Milano).
 <br/>
 
@@ -87,4 +87,4 @@ Then followed some online classes and books on
 
 ### [`Architecture & Computational Design`]
 <p></p>
-I'm maintaining constant practice in discovering the depth of <a href="">RhinoCommon</a> and the <a href="">Grasshopper SDK</a>. And I am building several small Plugins while finalizing some previous conceptual <a href="https://timsdesigns.wixsite.com/cdconsulting/expo-2020">work</a> to present in my Portfolio/Website in form of renderings via Twinmotion.  
+I'm maintaining constant practice in discovering the depth of <a href="">RhinoCommon</a> and the <a href="">Grasshopper SDK</a>. And I am building several small Plugins while finalizing some previous conceptual <a href="https://www.comdecon.com/expo-2020">work</a> to present in my Portfolio/Website in form of renderings via Twinmotion.  
