@@ -30,7 +30,7 @@ Gleichzeitig war es mir wichtig, <a href="https://vimeo.com/236308356"><b>einige
 
 Die Arbeit ermöglichte neben der <b>Entwicklung robuster Workflows und</b> schließlich <b>definierter Werkzeuge für Wiederverwendbarkeit und Interoperabilität</b> <b>den Fokus auf Präsentation und Kommunikation</b> mit/mit Kollegen, Büroleitern, produzierenden Unternehmen im Ausland, mit Investoren und in der Patentforschung/-arbeit. 
 
-Außerdem konnte ich meine Fähigkeiten im Rahmen einer <b>unabhängigen internationalen Zusammenarbeit</b> an unserem Beitrag zum <a href="https://timsdesigns.wixsite.com/cdconsulting/world-writing-museum"><b>World Writing Museum Competition</b></a> (<b>GSM-Import, SubD, Custom Tool Dev, Vray</b>) und am <a href="https://www.evolo.us/category/competition/"><b>EVOLO Skyscraper Competition</b></a> (<b>Generative Design, Physics Simulation, Smart Slabs</b>) zur Anwendung bringen.
+Außerdem konnte ich meine Fähigkeiten im Rahmen einer <b>unabhängigen internationalen Zusammenarbeit</b> an unserem Beitrag zum <a href="https://www.comdecon.com/world-writing-museum"><b>World Writing Museum Competition</b></a> (<b>GSM-Import, SubD, Custom Tool Dev, Vray</b>) und am <a href="https://www.evolo.us/category/competition/"><b>EVOLO Skyscraper Competition</b></a> (<b>Generative Design, Physics Simulation, Smart Slabs</b>) zur Anwendung bringen.
 <br/>
 <br/>
 
@@ -43,16 +43,16 @@ Es folgte ein tieferer Einblick in die <a href="https://www.oreilly.com/learning
 
 ### [`ComDeCom`]
 <p></p>
-Nach meinem Studium habe ich <a href="https://www.comdecon.com">ComDeCon</a> (Computational Design Consulting) gegründet, das verschiedene Dienstleistungen rund um die digitale Transformation anbietet. Bisher war ich mit einer <a href="https://timsdesigns.wixsite.com/cdconsulting/allprojects">Reihe von Projekten</a> beschäftigt, die Folgendes mit einschließen:
+Nach meinem Studium habe ich <a href="https://www.comdecon.com">ComDeCon</a> (Computational Design Consulting) gegründet, das verschiedene Dienstleistungen rund um die digitale Transformation anbietet. Bisher war ich mit einer <a href="https://www.comdecon.com/allprojects">Reihe von Projekten</a> beschäftigt, die Folgendes mit einschließen:
 
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/productdesign">3D-Druck</a> (Griffgriff, 3D-Druck auf Stoff, Maciachini-Modelle und Möbelmodelle),
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/furniture">Tragstrukturoptimierung</a> (Kraftfluss-basierte Möbel),
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/graphicdesign">Visualisierung</a> (Ophthalmologische Forschung, Straßen Konzept),
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/urbandesign">Grasshopper-Lösungen</a> (Stadtteil Schatten Generation und Bienenwaben Geometrie.)
+* <a href="https://www.comdecon.com/productdesign">3D-Druck</a> (Griffgriff, 3D-Druck auf Stoff, Maciachini-Modelle und Möbelmodelle),
+* <a href="https://www.comdecon.com/furniture">Tragstrukturoptimierung</a> (Kraftfluss-basierte Möbel),
+* <a href="https://www.comdecon.com/graphicdesign">Visualisierung</a> (Ophthalmologische Forschung, Straßen Konzept),
+* <a href="https://www.comdecon.com/urbandesign">Grasshopper-Lösungen</a> (Stadtteil Schatten Generation und Bienenwaben Geometrie.)
 und Wave-Frames Decke und Twisted-Base Skyscraper und Butterfy Terminal),
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/infrastructuredesign">Entwicklung von Bauingenieurwesen Tools</a> (RFI-GIS- Import und RFI-CAD Workflow-Automatisierung),
+* <a href="https://www.comdecon.com/infrastructuredesign">Entwicklung von Bauingenieurwesen Tools</a> (RFI-GIS- Import und RFI-CAD Workflow-Automatisierung),
 * <a href="https://vimeo.com/manage/videos/319545166">Konzept/ Skizzieren/ Sub-D Modelierung und Tragstrukturoptimierung</a> (Force Based Furniture),
-* <a href="https://timsdesigns.wixsite.com/cdconsulting/allprojects">Reverse Engineering/ Modellierung</a> (Maciachini-Modell),
+* <a href="https://www.comdecon.com/allprojects">Reverse Engineering/ Modellierung</a> (Maciachini-Modell),
 * <a href="">Design Optionen/ Beratung und 3D-Visualisierung/ virtuelle Begehung</a> (Apartment Milano).
 <br/>
 
