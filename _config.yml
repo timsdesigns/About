@@ -1,0 +1,6 @@
+#config file with the purpose of adding a dark theme to the page
+#creating this file according to: https://evanwill.github.io/go-go-ghpages-b/content/3-blog.html
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
