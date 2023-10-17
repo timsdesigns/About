@@ -15,34 +15,36 @@
 
 ### [`Prelude`]
 <p></p>
-While executing designs as a carpenter I developed the urge to improve the buildings I was involved with.  
-In my <a href="https://issuu.com/home/published/portfolio_tim_fischer__en_">Bachelor</a> I then <a href="https://www.ciee.org/go-abroad/college-study-abroad/programs/germany/berlin/global-architecture-design#academics">discovered computational design tools</a> in my <a href="https://www.archip.eu/">semester abroad</a> and have been convinced of their merit ever since.
+While executing designs as a carpenter I developed a strong passion for improving the buildings I was involved with.  
+In my <a href="https://issuu.com/home/published/portfolio_tim_fischer__en_">Bachelor's program</a> I discovered <a href="https://www.ciee.org/go-abroad/college-study-abroad/programs/germany/berlin/global-architecture-design#academics">computational design tools</a> in my <a href="https://www.archip.eu/">semester abroad</a> which ignited my enthusiasm and convinced of their merit ever since.
 <br/>
 <br/>
 
 ### [`MSC studies`]
 <p></p>
 After some freelance work and internships and competitions in architecture, workshops and further work in <a href="https://vimeo.com/manage/videos/153258593">3D Printing</a> and Visualization, in my Masters I focused on <a href="https://issuu.com/timfischer45/docs/grasshopper_polimi_p1-17_01">exploration of various fields</a> utilizing and discovering these tools as i.a.
-<p></p><ul>
-<li> material research,
-<li> <a href="https://vimeo.com/219884392">applied mathematics</a>,
-<li> <a href="https://issuu.com/timfischer45/docs/extreme_living_-_functional_unit_-_">bending active systems</a>,
-<li> <a href="https://vimeo.com/226139359">physics simulation</a>,
-<li> <a href="https://vimeo.com/247093054">agent based simulation</a>, 
-<li> urban analysis,
-<li> structural analysis/optimization,
-<li> energy optimization (<a href="https://vimeo.com/manage/videos/257005791">PV-Cells</a>, <a href="https://vimeo.com/manage/videos/257005791">Envelope</a>),
-<li> <a href="https://www.youtube.com/watch?v=Zp45P_SOf4U">seismic analysis</a>
-<li> and 3D printing (scale models & prototypes).
-</ul><br/>
+<p></p>
+<ul>
+  <li> Material research,</li>
+  <li> <a href="https://vimeo.com/219884392">Applied mathematics</a>,</li>
+  <li> <a href="https://issuu.com/timfischer45/docs/extreme_living_-_functional_unit_-_">Bending active systems</a>,</li>
+  <li> <a href="https://vimeo.com/226139359">Physics simulation</a>,</li>
+  <li> <a href="https://vimeo.com/247093054">Agent-based simulation</a>, </li>
+  <li> Urban analysis,</li>
+  <li> Structural analysis/optimization,</li>
+  <li> Energy optimization (<a href="https://vimeo.com/manage/videos/257005791">PV-Cells</a>, <a href="https://vimeo.com/manage/videos/257005791">Envelope</a>),</li>
+  <li> <a href="https://www.youtube.com/watch?v=Zp45P_SOf4U">Seismic analysis</a></li>
+  <li> And 3D printing (scale models & prototypes).</li>
+</ul>
+<br/>
 
 ### [`MSC work`]
 <p></p>
-Simultaneously it was important to me to <a href="https://vimeo.com/236308356"><b>fieldtest some of these techniques</b></a>, which was enabled through an internship and later a <a href="http://www.textilearchitecture.polimi.it/#research">software developer/ computational designer</a> associate position.
+Simultaneously, it was important to me to <a href="https://vimeo.com/236308356"><b>field test some of these techniques</b></a>, which was enabled through an internship and later a <a href="http://www.textilearchitecture.polimi.it/#research">software developer/ computational designer</a> associate position.
 <p></p>
-The work, besides allowing to <b>develop robust workflows and</b> eventually <b>defined tools for reusability and interoperability</b> <b>focused</b> besides development <b>on presentation and communication</b> to/with colleagues, office leaders, manufacturing companies abroad, investors and patent research/work.
+The work, besides allowing to <b>develop robust workflows and</b> eventually <b>defined tools for reusability and interoperability</b>, <b>focused</b> besides development <b>on presentation and communication</b> to/with colleagues, office leaders, manufacturing companies abroad, investors, and patent research/work.
 <p></p>
-Outside of my studies, I was also able to further develop my skills within an <b>independent international collaboration</b> on our contribution to the <a href="https://www.comdecon.com/world-writing-museum"><b>World Writing Museum Competition</b></a> <b>GSM import, SubD, custom tool dev, Vray</b>) and on the <a href="https://www.evolo.us/category/competition/"><b>EVOLO Skyscraper Competition</b></a> (<b>generative design, physics simulation, smart slabs</b>).
+Outside of my studies, I was also able to further develop my skills within an <b>independent international collaboration</b> on our contribution to the <a href="https://www.comdecon.com/world-writing-museum"><b>World Writing Museum Competition</b></a> <b>GSM import, SubD, custom tool development, V-Ray</b>) and on the <a href="https://www.evolo.us/category/competition/"><b>EVOLO Skyscraper Competition</b></a> (<b>generative design, physics simulation, smart slabs</b>).
 <br/>
 <br/>
 
@@ -55,16 +57,18 @@ This was followed by a deeper dive into the <a href="https://www.oreilly.com/lea
 
 ### [`ComDeCom`]
 <p></p>
-After my studies I founded <a href="https://www.comdecon.com">ComDeCon</a> (Computational Design Consulting) offering several differently scoped services around digital transformation. So far I've been involved with a <a href="https://timsdesigns.wixsite.com/cdconsulting/allprojects">row of projects</a> covering: <ul>
-<li> <a href="https://www.comdecon.com/productdesign">3D Printing</a> (Grip Handle, 3d printing on fabric, Maciachini Model and Furniture Models),
-<li> <a href="https://www.comdecon.com/furniture">Structural Optimization</a> (Forced Based Furniture),
-<li> <a href="https://www.comdecon.com/graphicdesign">Visualization</a> (Ophthalmology Research, Street Renewal),
-<li> <a href="https://www.comdecon.com/urbandesign">Grasshopper Solutions</a> (Urban Shadow Generation, Honeycomb Geometry, Wave Frames Ceiling, Twisted Base Skyscraper, Butterfly Terminal),
-<li> <a href="https://www.comdecon.com/infrastructuredesign">Civil Engineering Tool development</a> (RFI- GIS- Import and RFI- CAD workflow automation),
-<li> <a href="https://vimeo.com/manage/videos/319545166">Concept/ sketching/ sub-d modeling and structural optimization</a> (Force Based Furniture,  triply geometric landscape),
-<li> <a href="https://www.comdecon.com/allprojects">Reverse engineering/ modeling</a> (Maciachini Model),
-<li> <a href="">Design options/ consultation and 3d visualization/ virtual walkthrough</a> (Apartment Milano).
-</ul><br/>
+After my studies, I founded <a href="https://www.comdecon.com">ComDeCon</a> (Computational Design Consulting) offering several differently scoped services around digital transformation. So far I've been involved with a <a href="https://timsdesigns.wixsite.com/cdconsulting/allprojects">row of projects</a> covering:
+<ul>
+  <li> <a href="https://www.comdecon.com/productdesign">3D Printing</a> (Grip Handle, 3d printing on fabric, Maciachini Model and Furniture Models),</li>
+  <li> <a href="https://www.comdecon.com/furniture">Structural Optimization</a> (Forced Based Furniture),</li>
+  <li> <a href="https://www.comdecon.com/graphicdesign">Visualization</a> (Ophthalmology Research, Street Renewal),</li>
+  <li> <a href="https://www.comdecon.com/urbandesign">Grasshopper Solutions</a> (Urban Shadow Generation, Honeycomb Geometry, Wave Frames Ceiling, Twisted Base Skyscraper, Butterfly Terminal),</li>
+  <li> <a href="https://www.comdecon.com/infrastructuredesign">Civil Engineering Tool development</a> (RFI- GIS- Import and RFI- CAD workflow automation),</li>
+  <li> <a href="https://vimeo.com/manage/videos/319545166">Concept/ sketching/ sub-d modeling and structural optimization</a> (Force-Based Furniture, triply geometric landscape),</li>
+  <li> <a href="https://www.comdecon.com/allprojects">Reverse engineering/ modeling</a> (Maciachini Model),</li>
+  <li> <a href="">Design options/ consultation and 3d visualization/ virtual walkthrough</a> (Apartment Milano).</li>
+</ul>
+<br/>
 
 ### [`IASS Conference and Assassin Bug`]
 <p></p>
@@ -97,4 +101,4 @@ Then followed some online classes and books on <ul>
 
 ### [`Architecture & Computational Design`]
 <p></p>
-I'm maintaining constant practice in discovering the depth of <a href="">RhinoCommon</a> and the <a href="">Grasshopper SDK</a>. And I am building several small Plugins while finalizing some previous conceptual <a href="https://www.comdecon.com/expo-2020">work</a> to present in my Portfolio/Website in form of renderings via Twinmotion.  
+I'm maintaining constant practice in discovering the depth of <a href="https://developer.rhino3d.com/api/rhinocommon">RhinoCommon</a> and the <a href="https://developer.rhino3d.com/api/grasshopper">Grasshopper SDK</a>. And I am building several small Plugins while finalizing some previous conceptual <a href="https://www.comdecon.com/expo-2020">work</a> to present in my Portfolio/Website in form of renderings via Twinmotion.  
