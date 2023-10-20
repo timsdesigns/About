@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<head><base href="https://www.w3.org/WAI/https://github.com/timsdesigns/About"></head>
-
 ## About Me
 <br>
 
