@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<script>
+window.location.href = "/About%20Me";
+</script>
+
 ## About Me
 <br>
 
