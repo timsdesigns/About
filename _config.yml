@@ -1,3 +1,4 @@
+baseurl: "/"
 #config file with the purpose of adding a dark theme to the page
 #creating this file according to: https://evanwill.github.io/go-go-ghpages-b/content/3-blog.html
 
